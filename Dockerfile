@@ -1,4 +1,4 @@
-FROM base/archlinux
+FROM hkupty/base:latest
 MAINTAINER Henry "Ingvij" Kupty <hkupty@gmail.com>
 
 WORKDIR /opt/gradle
